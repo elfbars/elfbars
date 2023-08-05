@@ -1,8 +1,10 @@
-i 3d model
-
-i like gun dev
+- 3D Modeller
+- Self Taught
 
 <h2 align="center">current projects</h2>
+
+
+<h2 align="center">old projects </h2>
 
 - [CLIMB](https://discord.gg/climb) (only up in fivem)
 
