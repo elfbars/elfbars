@@ -3,5 +3,5 @@
 
  <h2 align="left">contact</h2>
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/422444198835257363)](https://discord.com/users/422444198835257363)
+[![Discord Presence](https://lanyard.cnrad.dev/api/422444198835257363)](https://discord.com/users/1147116997021270027)
 
